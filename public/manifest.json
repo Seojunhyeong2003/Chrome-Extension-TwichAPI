@@ -1,0 +1,9 @@
+{
+    "name": "New Extension",
+    "description": "확장프로그램_beta",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    }
+}

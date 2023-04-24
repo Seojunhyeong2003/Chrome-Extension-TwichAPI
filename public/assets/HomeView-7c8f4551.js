@@ -1,0 +1,1 @@
+import{_ as e,o as _,c as o}from"./index-2a2058f3.js";const c={},s={class:"box"};function t(n,d){return _(),o("div",s," 홈뷰페이지 테스트임다. ")}const r=e(c,[["render",t],["__scopeId","data-v-22e6d6db"]]);export{r as default};
